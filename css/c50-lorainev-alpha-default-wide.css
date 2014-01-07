@@ -1,0 +1,18 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+img#logo{max-width:500px;}
+ul#main-menu{margin-top:2em;}
+div#region-menu{height:16px;clear:right;margin-left:0.6em;}
+ul#main-menu li{position:relative;display:inline-block;padding:0 6px;margin:0;}
+div#region-content,#region-sidebar-second{display:block;/* float:right;*/
+margin-top:50px;padding:0px;}
+/*Decor*/
+#region-decor li{list-style-type:none;}
+#region-decor{display:block !important;}
+#block-system-main{padding-left:0em !important;}
+/* 20x20 auto shadow */
+.view-tableaux-20-20 ul li{position:relative;display:inline-block;width:133px;height:142px;background:transparent url(../images/quid100-w.png) no-repeat 0px 0px;}
+.mosaic30 .view-tableaux-20-20 ul li{width:204px;height:218px;background:transparent url(../images/quid150-wide-s.png) no-repeat 0px 0px;}
+.mosaic20 .view-tableaux-20-20 img{max-width:118px;max-height:118px;}
+.mosaic30 .view-tableaux-20-20 img{max-width:196px;max-height:196px;}
+.field-name-field-imgtabl img{width:500px !important;/*accomodation*/}
+ul.language-switcher-locale-session {margin-top:0em !important;}

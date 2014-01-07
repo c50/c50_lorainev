@@ -1,0 +1,57 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+/*
+Copyright C50 Dynamic Design
+www.c50.be design-at-c50.be
+tested with 800px width
+*/
+img.region-inner{max-width:1em;}
+.region-menu-inner{margin:0 auto;width:500px;}
+/* Branding */
+img#logo{max-width:350px;}
+.region-branding-inner{margin:0;width:700px;padding-bottom:0;}
+/*Decor*/
+#region-decor li{list-style-type:none;}
+div#region-decor {display:inline-block !important;}
+/*main menu*/
+div#region-menu{clear:left;margin-left:20%;}
+ul#main-menu li a{width:84px;height:100px;font-size:1.5em;padding:0px;}
+ul#main-menu li a:hover,ul#main-menu li a.active{color:#d8611b;}
+a#home{background:transparent url(../images/menu-sprite-32.png) no-repeat 0px 0px;}
+a.active#home,a:hover#home{background:transparent url(../images/menu-sprite-32.png) no-repeat 0 -104px;}
+a#tableaux{background:transparent url(../images/menu-sprite-32.png) no-repeat -255px 0px;}
+a.active#tableaux,a:hover#tableaux{background:transparent url(../images/menu-sprite-32.png) no-repeat -255px -104px;}
+a#commander{background:transparent url(../images/menu-sprite-32.png) no-repeat -339px 0px;}
+a.active#commander,a:hover#commander{background:transparent url(../images/menu-sprite-32.png) no-repeat -339px -104px;}
+a#pourquoi{background:transparent url(../images/menu-sprite-32.png) no-repeat -170px 0px;}
+a.active#pourquoi,a:hover#pourquoi{background:transparent url(../images/menu-sprite-32.png) no-repeat -170px -104px;}
+a#qui{background:transparent url(../images/menu-sprite-32.png) no-repeat -84px 0px;}
+a.active#qui,a:hover#qui{background:transparent url(../images/menu-sprite-32.png) no-repeat -84px -104px;}
+/* main content */
+/* reset des tableaux */
+.node-tableau {margin-left: 0 !important;width:100% !important;}
+/* sidebar second */
+#zone-content-wrapper{background:none;}
+.context-commander #zone-content {margin-top:0px;}
+.context-commander #region-decor {margin-top:-99px;}
+#block-system-main{padding-left:0 !important;margin-top:0;}
+div#region-content,#region-sidebar-second{display:block;margin-top:150px;padding:0px;}
+.context-commander div#region-content, .context-commander #region-sidebar-second{display:block;margin-top:50px;padding:0px;}
+.block-views.nivo-slider-wide{display:none;}
+/* 20x20 auto shadow */
+.view-tableaux-20-20 ul li{position:relative;display:inline-block;width:70px;height:90px;background:transparent url(../images/quid100-nar.png) no-repeat 0px 0px;}
+.mosaic30 .view-tableaux-20-20 ul li{width:113px;height:130px;background:transparent url(../images/quid150-nar.png) no-repeat 0px 0px;}
+.mosaic20 .view-tableaux-20-20 img{max-width:67px;max-height:67px;}
+.mosaic30 .view-tableaux-20-20 img{max-width:109px;max-height:109px;}
+#block-views-tableaux-20-20-block div.block-inner.clearfix h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 0;margin-bottom:-18px;margin-left:0px;}
+.mosaic30 h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 -18px;margin-bottom:-18px;margin-left:0px;}
+.field-name-field-imgtabl img{width:320px !important;/*accomodation*/
+margin-bottom:2em;margin-top:1em;}
+#block-views-tableaux-20-20-block{background:none;}
+/* login form */
+#user-login input {max-width: 300px;}
+#patte {display:none;}
+
+#region-footer-second a, #region-footer-second a:link, #region-footer-second a:visited {position:relative;top:2.2em;float:right;}
+
+div.nivo-controlNav {width:300px;}
+ul.language-switcher-locale-session {margin-top:0em !important; margin-right: -1em !important;}
