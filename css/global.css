@@ -3,7 +3,9 @@
 /*Firefox focus cancelling*/
 a:focus{outline-width:0 !important;}
 body{padding:0;margin:0;/* necesarry for the raster to fill the screen */
-height:100%;width:100%;background:transparent url(../images/seamlesstexture15_500_groovy.jpg) repeat;font-family:'Comfortaa',cursive;font-size:12px;}
+height:100%;width:100%;
+/*background:transparent url(../images/seamlesstexture15_500_groovy.jpg) repeat;font-family:'Comfortaa',cursive;font-size:12px;
+*/}
 img.region-inner{max-width:0.888888888888889em;}
 a img.region-menu{max-width:0.2em;}
 #region-decor img{max-width:4em;margin-top:-1em;margin-left:-1em;}
