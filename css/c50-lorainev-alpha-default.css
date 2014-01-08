@@ -9,7 +9,7 @@ img#logo{max-width:450px;}
 div#region-menu{height:16px;clear:right;margin-left:1em;}
 ul#main-menu{margin:0 auto;float:left;text-align:center;width:500px;}
 ul#main-menu li a{display:inline-block;width:84px;height:100px;font-size:1.5em;margin:1em 0px;padding:0px;text-indent:-9999px;line-height:22px;}
-ul#main-menu li a:hover,ul#main-menu li a.active{color:#d8611b;}
+/*ul#main-menu li a:hover,ul#main-menu li a.active{color:#d8611b;}
 a#home{background:transparent url(../images/menu-sprite-32.png) no-repeat 0px 0px;}
 a.active#home,a:hover#home{background:transparent url(../images/menu-sprite-32.png) no-repeat 0 -104px;}
 a#tableaux{background:transparent url(../images/menu-sprite-32.png) no-repeat -255px 0px;}
@@ -20,7 +20,7 @@ a#pourquoi{background:transparent url(../images/menu-sprite-32.png) no-repeat -1
 a.active#pourquoi,a:hover#pourquoi{background:transparent url(../images/menu-sprite-32.png) no-repeat -170px -104px;}
 a#qui{background:transparent url(../images/menu-sprite-32.png) no-repeat -84px 0px;}
 a.active#qui,a:hover#qui{background:transparent url(../images/menu-sprite-32.png) no-repeat -84px -104px;}
-/* main content */
+/* main content */*/
 div#region-content{display:block;/* float:right;*/
 margin-top:100px;padding-left:0%;}
 /* sidebar second */
