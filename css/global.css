@@ -63,7 +63,7 @@ ul.language-switcher-locale-session li.fr a.session-active, ul.language-switcher
 #block-system-main{padding-left:4em !important;padding-right:2em;}
 h1,h2,h3,h4,h5,h6{letter-spacing:-0.05em;font-family:'Comfortaa',cursive,Georgia;}
 #zone-content-wrapper{font-size:1em;color:#835038;text-shadow:rgba(0,0,0,0.2) 0px 0px 2px;background:transparent url(../images/deco-mobile.png) no-repeat;}
-h2.node-title{font-size:1.5em;color:#f3971b;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;}
+h2.node-title{font-size:1.5em;color:#FF9900;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;}
 #zone-content a{color:#f85810;}
 #copy{color:#f3971b;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;text-decoration:none;}
 #region-footer-second a,#region-footer-second a:link,#region-footer-second a:visited{color:#f3971b;text-shadow:rgba(0,0,0,0.3) 1px 1px 1px;text-decoration:none;font-size:0.8em;top:3em;float:left;}
