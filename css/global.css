@@ -19,30 +19,10 @@ div#region-content{margin-top:20px;}
 .region-menu-inner{margin:0 auto;width:270px;}
 div#region-menu{height:16px;line-height:22px;}
 ul#main-menu{float:left;text-align:center;}
-/*ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
-ul#main-menu li a{display:inline-block;width:84px;height:100px !important;font-size:1.5em;margin:1em 0px;padding:0px;text-indent:-9999px;line-height:22px;}
-ul#main-menu li a:hover,ul#main-menu li a.active{color:#d8611b;}
-a#accueil{background:transparent url(../images/menu-sprite-32.png) no-repeat 0px 0px;}
-a#home{background:transparent url(../images/menu-sprite-32-en.png) no-repeat 0px 0px    !important;}
-a.active#accueil,a:hover#accueil{background:transparent url(../images/menu-sprite-32.png) no-repeat 0 -104px;}
-a.active#home,a:hover#home{background:transparent url(../images/menu-sprite-32-en.png) no-repeat 0 -104px    !important;}
-a#tableaux{background:transparent url(../images/menu-sprite-32.png) no-repeat -255px 0px;}
-a#paintings{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -255px 1px;}
-a.active .page-tableaux#tableaux,a:hover#tableaux,.node-type-tableau a#tableaux{background:transparent url(../images/menu-sprite-32.png) no-repeat -255px -104px;}
-a.active .page-paintings#paintings,a:hover#paintings,.node-type-tableau a#paintings{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -255px -103px    !important;}
-a#commander{background:transparent url(../images/menu-sprite-32.png) no-repeat -339px 0px;}
-a#ordering{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -339px 0px;}
-a.active#commander,a:hover#commander,.node-type-slide-papiers-peints a#commander,.page-contact a#commander{background:transparent url(../images/menu-sprite-32.png) no-repeat -339px -104px;}
-a.active#ordering,a:hover#ordering,.node-type-slide-papiers-peints a#ordering,.page-contact a#ordering{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -339px -104px    !important;}
-a#pourquoi{background:transparent url(../images/menu-sprite-32.png) no-repeat -170px 0px;}
-a#why{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -170px 0px;}
-a.active#pourquoi,a:hover#pourquoi{background:transparent url(../images/menu-sprite-32.png) no-repeat -170px -104px;}
-a.active#why,a:hover#why{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -170px -104px    !important;}
-a#qui{background:transparent url(../images/menu-sprite-32.png) no-repeat -84px 0px;}
-a#who{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -83px 0px;}
-a.active#qui,a:hover#qui{background:transparent url(../images/menu-sprite-32.png) no-repeat -84px -104px;}
-a.active#who,a:hover#who{background:transparent url(../images/menu-sprite-32-en.png) no-repeat -83px -104px    !important;}
-*/
+ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
+ul#main-menu li a{display:inline-block;width:84px;height:10px !important;font-size:1.5em;margin:1em 0px;padding:0px;line-height:22px;}
+ul#main-menu li a:hover,ul#main-menu li a.active{color:#ffffff;}
+
 /*language switcher*/
 #block-locale-language {position:inherit;} /* to avoid overlap in admin */
 #block-locale-language h2 {display:none;}
