@@ -1,5 +1,5 @@
 /* This file will hold styles that are loaded using the same media query as the wide grid. */
-img#logo{max-width:500px;}
+img#logo{max-width:600px;}
 ul#main-menu{margin-top:2em;}
 div#region-menu{height:16px;clear:right;margin-left:0.6em;}
 ul#main-menu li{position:relative;display:inline-block;padding:0 6px;margin:0;}
