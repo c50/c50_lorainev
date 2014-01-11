@@ -21,7 +21,7 @@ div#region-menu{height:16px;line-height:22px;}
 ul#main-menu{float:left;text-align:center;}
 ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
 ul#main-menu li a{display:inline-block;width:84px;height:10px !important;font-size:1.5em;margin:1em 0px;padding:0px;line-height:22px;}
-ul#main-menu li a:hover,ul#main-menu li a.active{color:#ffffff;}
+ul#main-menu li a:hover,ul#main-menu li a.active{color:#FFFFFF;}
 
 /*language switcher*/
 #block-locale-language {position:inherit;} /* to avoid overlap in admin */
@@ -64,20 +64,7 @@ h2.node-title{font-size:1.5em;color:#F9558D;text-shadow:rgba(0,0,0,0.6) 1px 1px 
 h2.block-title{font-size:12px;}
 /* images - general */
 img{max-width:250px;height:auto;}
-/* slides papiers peints */
-#block-views-nivo-slider-mobile-block h2.block-title{display:none;}
-#block-views-nivo-slider-mobile-block{margin:0px auto;}
-.nivo-slider-mobile img{width:250px !important;height:180px !important;}
-.nivo-slider-mobile .theme-groovy.slider-wrapper{background:url(../images/small-slider.png) no-repeat;width:320px;margin:0px auto;}
-.nivo-slider-mobile .theme-groovy #slider{margin:100px auto 0 auto;width:250px;/* Make sure your images are the same size */
-height:180px;/* Make sure your images are the same size */}
-.nivo-slider-mobile .theme-groovy .nivoSlider{position:relative;width:250px;height:180px;margin-left:27px;margin-top:-7px;}
-.nivo-slider-mobile .theme-groovy .ribbon{left:8px;}
-.nivo-slider-mobile .theme-groovy .nivo-directionNav a{display:block;border:0;top:75px;}
-.nivo-slider-mobile .theme-groovy .nivo-controlNav {width: 500px; margin-left: -50px;}
-/*.nivo-nextNav{background-position:-76px -30px !important;height:100px;}
-*/
-.block-views.nivo-slider-wide{display:none;}
+
 tr:hover td,tr.even:hover td.active,tr.odd:hover td.active{background-color:transparent;}
 #hover-preview-imgpreview{background-color:#BD8B54;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;padding:8px;z-index:999;border:1px solid #CF8B8A;margin-right:5em;width:200px;}
 /* 20x20 auto shadow */

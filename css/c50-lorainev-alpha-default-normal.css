@@ -11,17 +11,7 @@ margin-top:50px;padding:0px;}
 .context-commander #zone-content-wrapper{margin-top:0em;}
 .context-commander #region-decor{margin-top:0px;}
 div#region-menu{height:16px;clear:right;margin-left:0.6em;}
-/* slides papiers peints */
-#block-views-nivo-slider-block h2.block-title{display:none;}
-#block-views-nivo-slider-block{margin-left:-2em;}
-.nivo-slider-wide img{width:399px !important;height:223px !important;}
-.nivo-slider-wide .theme-groovy.slider-wrapper{background:url(../images/slider-400-225.png) no-repeat;width:436px;height:340px;}
-.nivo-slider-wide .theme-groovy #slider{margin:100px auto 0 auto;width:399px;/* Make sure your images are the same size */
-height:224px;/* Make sure your images are the same size */}
-.nivo-slider-wide .theme-groovy .nivoSlider{position:relative;width:399px;height:224px!important;margin-left:13px;margin-top:-6px;}
-.view-nivo-slider-mobile .theme-groovy .ribbon{left:8px;}
-.block-views.nivo-slider-wide{display:block;}
-.block-views.nivo-slider-mobile{display:none;}
+
 /* 20x20 auto shadow */
 .view-tableaux-20-20 ul li{position:relative;display:inline-block;width:110px;height:120px;background:transparent url(../images/quid100-n.png) no-repeat 0px 0px;}
 .mosaic30 .view-tableaux-20-20 ul li{width:160px;height:180px;background:transparent url(../images/quid150-s.png) no-repeat 0px 0px;}
