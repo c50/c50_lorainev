@@ -21,8 +21,3 @@ Twitter:        http://twitter.com/Omeglicon
 ##########################################################################################
 
 Any custom CSS files should be placed in this folder.
-
-To adapt an install just change these to paths :
-
-in script.js :
-attach: function(context, settings) {$.backstretch("http://local.eleonorecompta.be/sites/all/themes/eleonore_compta_omega/images/background-eleonore-fonce.jpg", {speed: 100});
