@@ -5,7 +5,7 @@
 <meta name="Author" content="C50 Dynamic Design, www.c50.be" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <title><?php print $head_title; ?></title>
-  <link href='http://fonts.googleapis.com/css?family=Comfortaa:700,300' rel='stylesheet' type='text/css' />
+  <link href='http://fonts.googleapis.com/css?family=Exo:100,200,400' rel='stylesheet' type='text/css'>
   <?php print $styles; ?>
   <?php print $scripts; ?>
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
