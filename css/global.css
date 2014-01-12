@@ -8,6 +8,7 @@ background:transparent url(../images/055_fabric_grungydenim.jpg) repeat;font-fam
 }
 img.region-inner{max-width:0.888888888888889em;}
 a img.region-menu{max-width:0.2em;}
+a.link, a:visited{color:#B6CAE2;}
 #region-decor img{max-width:4em;margin-top:-1em;margin-left:-1em;}
 /* Branding */
 .region-branding-inner{margin:0 auto;width:250px;}
@@ -21,7 +22,7 @@ div#region-menu{height:16px;line-height:22px;}
 ul#main-menu{float:left;text-align:center;}
 ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
 ul#main-menu li a{display:inline-block;width:84px;height:10px !important;font-size:1.5em;margin:1em 0px;padding:0px;line-height:22px;}
-ul#main-menu li a:hover,ul#main-menu li a.active{color:#FFFFFF;}
+ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 
 /*language switcher*/
 #block-locale-language {position:inherit;} /* to avoid overlap in admin */

@@ -5,7 +5,7 @@ www.c50.be design-at-c50.be
 tested with 1024px width (iPad)
 */
 img#logo{max-width:360px;}
-ul#main-menu{margin-top:2em;}
+ul#main-menu{margin-top:0em;}
 div#region-content,#region-sidebar-second{display:block;/* float:right;*/
 margin-top:50px;padding:0px;}
 .context-commander #zone-content-wrapper{margin-top:0em;}
