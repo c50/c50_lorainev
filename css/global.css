@@ -8,7 +8,7 @@ background:transparent url(../images/055_fabric_grungydenim.jpg) repeat;font-fam
 }
 img.region-inner{max-width:0.888888888888889em;}
 a img.region-menu{max-width:0.2em;}
-a.link, a:visited{color:#B6CAE2;}
+a:link, a:visited{color:#B6CAE2;}
 #region-decor img{max-width:4em;margin-top:-1em;margin-left:-1em;}
 /* Branding */
 .region-branding-inner{margin:0 auto;width:250px;}

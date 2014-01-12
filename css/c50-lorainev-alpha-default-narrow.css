@@ -24,7 +24,7 @@ ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 .context-commander #zone-content {margin-top:0px;}
 .context-commander #region-decor {margin-top:-99px;}
 #block-system-main{padding-left:0 !important;margin-top:0;}
-div#region-content,#region-sidebar-second{display:block;margin-top:150px;padding:0px;}
+div#region-content,#region-sidebar-second{display:block;margin-top:0px;padding:0px;}
 .context-commander div#region-content, .context-commander #region-sidebar-second{display:block;margin-top:50px;padding:0px;}
 .block-views.nivo-slider-wide{display:none;}
 /* 20x20 auto shadow */
