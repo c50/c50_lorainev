@@ -32,8 +32,8 @@ div#region-content,#region-sidebar-second{display:block;margin-top:150px;padding
 .mosaic30 .view-tableaux-20-20 ul li{width:113px;height:130px;background:transparent url(../images/quid150-nar.png) no-repeat 0px 0px;}
 .mosaic20 .view-tableaux-20-20 img{max-width:67px;max-height:67px;}
 .mosaic30 .view-tableaux-20-20 img{max-width:109px;max-height:109px;}
-#block-views-tableaux-20-20-block div.block-inner.clearfix h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 0;margin-bottom:-18px;margin-left:0px;}
-.mosaic30 h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 -18px;margin-bottom:-18px;margin-left:0px;}
+/*#block-views-tableaux-20-20-block div.block-inner.clearfix h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 0;margin-bottom:-18px;margin-left:0px;}
+.mosaic30 h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 -18px;margin-bottom:-18px;margin-left:0px;}*/
 .field-name-field-imgtabl img{width:320px !important;/*accomodation*/
 margin-bottom:2em;margin-top:1em;}
 #block-views-tableaux-20-20-block{background:none;}
