@@ -17,16 +17,16 @@ img#logo{max-width:270px;margin-top:24px;}
 div#region-content{margin-top:20px;}
 /*main menu*/
 /*.navigation{min-height:300px;}*/
-.region-menu-inner{margin:0 auto;width:270px;}
+/*.region-menu-inner{margin:0 auto;width:270px;}
 div#region-menu{height:16px;line-height:22px;}
-ul#main-menu{float:left;text-align:center;}
+ul#main-menu{float:left;text-align:left;}
 ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
-ul#main-menu li a{display:inline-block;width:84px;height:10px !important;font-size:1.5em;margin:1em 0px;padding:0px;line-height:22px;}
-ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
+ul#main-menu li a{display:inline-block;width:84px;height:10px !important;font-size:1.5em;margin:0px;padding:0px;line-height:22px;}
+ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}*/
 
 /*language switcher*/
-#block-locale-language {position:inherit;} /* to avoid overlap in admin */
-#block-locale-language h2 {display:none;}
+/*#block-locale-language {position:inherit;} /* to avoid overlap in admin */
+/*#block-locale-language h2 {display:none;}
 ul.language-switcher-locale-session{float:right;text-align:left;margin-right:8.45em;margin-top:-2em;}
 ul.language-switcher-locale-session li{position:relative;display:inline-block;padding:0 1px;margin:0;}
 ul.language-switcher-locale-session li a{display:inline-block;width:33px;height:28px;font-size:1.5em;padding:0px;text-indent:-9999px;line-height:32px;}
@@ -34,14 +34,14 @@ ul.language-switcher-locale-session li.en a {background:transparent url(../image
 ul.language-switcher-locale-session li.en a.session-active, ul.language-switcher-locale-session li.en a:hover  {background:transparent url(../images/spritelangues.png) no-repeat -0px -30px;}
 ul.language-switcher-locale-session li.fr a {background:transparent url(../images/spritelangues.png) no-repeat -36px -30px;}
 ul.language-switcher-locale-session li.fr a.session-active, ul.language-switcher-locale-session li.fr a:hover {background:transparent url(../images/spritelangues.png) no-repeat -36px 0px;}
-}
+}*/
 
 
 /*Decor*/
 #region-decor li{list-style-type:none;}
 #region-decor{display:none;}
 /*Main*/
-#block-system-main{padding-left:4em !important;padding-right:2em;}
+/*#block-system-main{padding-left:4em !important;padding-right:2em;}*/
 h1,h2,h3,h4,h5,h6{letter-spacing:-0.05em;font-family:'Exo', sans-serif;font-weight: 200;}
 #zone-content-wrapper{font-size:1em;color:#FFFFFF;text-shadow:rgba(0,0,0,0.2) 0px 0px 2px;background:transparent url(../images/deco-mobile.png) no-repeat;}
 h2.node-title{font-size:2em;color:#C7B184;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;}
@@ -89,13 +89,7 @@ div #wrap{z-index:auto !important;margin-bottom:20px;}
 #edit-cid{background-color:#d3d87e;}
 /* login form */
 #user-login input{max-width:200px;}
-/*Papiers peints*/
-.node-slide-papiers-peints img{-webkit-border-radius:12px;/* Saf3-4,iOS 1-3.2,Android ≤1.6 */
--moz-border-radius:12px;/* FF1-3.6 */
-border-radius:12px;/* Opera 10.5,IE9,Saf5,Chrome,FF4,iOS 4,Android 2.1+ */
-/* useful if you don't want a bg color from leaking outside the border:*/
--moz-background-clip:padding;-webkit-background-clip:padding-box;background-clip:padding-box;}
-.choix-papier h2.block-title{margin-top:2em;margin-bottom:1em;}
+
 /* follow us */
 /*#block-follow-site{text-indent:-99999px;float:right;margin-right:2em;display:inline-block;width:125px;height:28px;}
 a.follow-link{height:25px;float:right;margin:0 8px 8px 0;}
