@@ -77,11 +77,12 @@ tr:hover td,tr.even:hover td.active,tr.odd:hover td.active{background-color:tran
 /*#block-views-tableaux-20-20-block div.block-inner.clearfix h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 0;margin-left:10px;}*/
 .mosaic20 h2.block-title{margin-top:2em;}
 /*.mosaic30 h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 -18px;margin-left:10px;}*/
-.field-name-field-imgtabl img{width:280px !important;/*image accomodation*/-webkit-box-shadow:2px 8px 12px 0px #333333;/* Saf3-4,iOS 4.0.2 - 4.2,Android 2.3+ */
+.field-name-field-imgtabl img{width:80px !important;/*image accomodation*/-webkit-box-shadow:2px 8px 12px 0px #333333;/* Saf3-4,iOS 4.0.2 - 4.2,Android 2.3+ */
 -moz-box-shadow:2px 8px 12px 0px #333333;/* FF3.5 - 3.6 */
 box-shadow:2px 8px 12px 0px #333333;/* Opera 10.5,IE9,FF4+,Chrome 6+,iOS 5 */}
+.field-name-field-imgtabl a {display: none;}
 div #wrap{z-index:auto !important;margin-bottom:20px;}
-#wrap div.mousetrap{z-index:100 !important;}
+#wrap div.mousetrap{z-index:100 !important;width:100px;}
 /*global forms*/
 .form-item input,.form-item select,textarea{background-color:#f6f0e8;color:#855051;}
 /*contact form*/
@@ -99,3 +100,5 @@ a.follow-link-twitter{background:transparent url(../images/follow-groovy.png) no
 #patte a{color:#f3971b;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;text-decoration:none;}
 a.go-top{background:transparent url(../images/groovy-top-s.png) no-repeat 0px 0px;display:block;height:118px;padding-top:100px;}
 a.translation-link{color:#39F !important;}*/
+
+
