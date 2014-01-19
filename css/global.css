@@ -17,12 +17,12 @@ img#logo{max-width:270px;margin-top:24px;}
 div#region-content{margin-top:20px;}
 /*main menu*/
 /*.navigation{min-height:300px;}*/
-/*.region-menu-inner{margin:0 auto;width:270px;}
+.region-menu-inner{margin:0 auto;width:270px;}
 div#region-menu{height:16px;line-height:22px;}
 ul#main-menu{float:left;text-align:left;}
 ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
 ul#main-menu li a{display:inline-block;width:84px;height:10px !important;font-size:1.5em;margin:0px;padding:0px;line-height:22px;}
-ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}*/
+ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 
 /*language switcher*/
 /*#block-locale-language {position:inherit;} /* to avoid overlap in admin */
