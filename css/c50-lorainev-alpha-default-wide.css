@@ -12,8 +12,7 @@ margin-top:50px;padding:0px;}
 #block-system-main{padding-left:0em !important;}
 /* 20x20 auto shadow */
 .view-tableaux-20-20 ul li{position:relative;display:inline-block;width:133px;height:142px;}
-.mosaic30 .view-tableaux-20-20 ul li{width:204px;height:218px;}
-.mosaic20 .view-tableaux-20-20 img{max-width:118px;max-height:118px;}
+.mosaic20 .view-tableaux-20-20 img{max-width:130px;max-height:130px;}
 .mosaic30 .view-tableaux-20-20 img{max-width:196px;max-height:196px;}
 .field-name-field-imgtabl img{width:500px !important;/*accomodation*/}
 ul.language-switcher-locale-session {margin-top:0em !important;}
