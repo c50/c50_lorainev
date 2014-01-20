@@ -4,7 +4,7 @@
 a:focus{outline-width:0 !important;}
 body{padding:0;margin:0;/* necesarry for the raster to fill the screen */
 height:100%;width:100%;
-background:transparent url(../images/055_fabric_grungydenim.jpg) repeat;font-family:'Arial',cursive;font-size:12px;
+background:transparent url(../images/055_fabric_grungydenim.jpg) repeat;font-family:'Arial';font-size:12px;
 }
 img.region-inner{max-width:0.888888888888889em;}
 a img.region-menu{max-width:0.2em;}
@@ -24,19 +24,6 @@ ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
 ul#main-menu li a{display:inline-block;width:84px;height:10px !important;font-size:1.5em;margin:0px;padding:0px;line-height:22px;}
 ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 
-/*language switcher*/
-/*#block-locale-language {position:inherit;} /* to avoid overlap in admin */
-/*#block-locale-language h2 {display:none;}
-ul.language-switcher-locale-session{float:right;text-align:left;margin-right:8.45em;margin-top:-2em;}
-ul.language-switcher-locale-session li{position:relative;display:inline-block;padding:0 1px;margin:0;}
-ul.language-switcher-locale-session li a{display:inline-block;width:33px;height:28px;font-size:1.5em;padding:0px;text-indent:-9999px;line-height:32px;}
-ul.language-switcher-locale-session li.en a {background:transparent url(../images/spritelangues.png) no-repeat 0px 0px;}
-ul.language-switcher-locale-session li.en a.session-active, ul.language-switcher-locale-session li.en a:hover  {background:transparent url(../images/spritelangues.png) no-repeat -0px -30px;}
-ul.language-switcher-locale-session li.fr a {background:transparent url(../images/spritelangues.png) no-repeat -36px -30px;}
-ul.language-switcher-locale-session li.fr a.session-active, ul.language-switcher-locale-session li.fr a:hover {background:transparent url(../images/spritelangues.png) no-repeat -36px 0px;}
-}*/
-
-
 /*Decor*/
 #region-decor li{list-style-type:none;}
 #region-decor{display:none;}
@@ -51,8 +38,6 @@ h2.node-title{font-size:2em;color:#C7B184;text-shadow:rgba(0,0,0,0.6) 1px 1px 1p
 /* main content */
 /* centre les tableaux */
 .node-tableau{margin:0 auto !important;width:300px !important;}
-/* div#region-content{margin-top:-400px;padding-left:15%;}
-*/
 /* sidebar second */
 #region-sidebar-second{padding-left:15%;}
 /* 20x20 */
@@ -69,12 +54,11 @@ img{max-width:250px;height:auto;}
 tr:hover td,tr.even:hover td.active,tr.odd:hover td.active{background-color:transparent;}
 #hover-preview-imgpreview{background-color:#BD8B54;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;padding:8px;z-index:999;border:1px solid #CF8B8A;margin-right:5em;width:200px;}
 /* 20x20 auto shadow */
-.view-tableaux-20-20 ul li{position:relative;display:inline-block;width:110px;height:120px;padding:0;background:transparent url(../images/quid100-s.png) no-repeat 0px 0px;}
+.view-tableaux-20-20 ul li{position:relative;display:inline-block;width:110px;height:120px;padding:0;}
 .view-tableaux-20-20 ul li a.active img{border:1px solid #fff;}
-.mosaic30 .view-tableaux-20-20 ul li{width:160px;height:180px;background:transparent url(../images/quid150-s.png) no-repeat 0px 0px;}
+.mosaic30 .view-tableaux-20-20 ul li{width:160px;height:180px;}
 .mosaic20 .view-tableaux-20-20 img{max-width:100px;max-height:100px;}
 .mosaic30 .view-tableaux-20-20 img{max-width:150px;max-height:150px;}
-/*#block-views-tableaux-20-20-block div.block-inner.clearfix h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 0;margin-left:10px;}*/
 .mosaic20 h2.block-title{margin-top:2em;}
 /*.mosaic30 h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 -18px;margin-left:10px;}*/
 .field-name-field-imgtabl img{width:80px !important;/*image accomodation*/-webkit-box-shadow:2px 8px 12px 0px #333333;/* Saf3-4,iOS 4.0.2 - 4.2,Android 2.3+ */
