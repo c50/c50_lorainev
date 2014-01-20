@@ -66,7 +66,7 @@ box-shadow:2px 8px 12px 0px #333333;/* Opera 10.5,IE9,FF4+,Chrome 6+,iOS 5 */}
 -moz-box-shadow:2px 8px 12px 0px #333333;/* FF3.5 - 3.6 */
 box-shadow:2px 8px 12px 0px #333333;/* Opera 10.5,IE9,FF4+,Chrome 6+,iOS 5 */}
 div #wrap{z-index:auto !important;margin-bottom:20px;}
-#wrap div.mousetrap{z-index:100 !important;width:200px !important;}
+#wrap div.mousetrap{z-index:100 !important;}
 /*global forms*/
 .form-item input,.form-item select,textarea{background-color:#f6f0e8;color:#855051;}
 /*contact form*/
