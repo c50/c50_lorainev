@@ -4,8 +4,7 @@
 a:focus{outline-width:0 !important;}
 body{padding:0;margin:0;/* necesarry for the raster to fill the screen */
 height:100%;width:100%;
-background:transparent url(../images/055_fabric_grungydenim.jpg) repeat;font-family:'Arial';font-size:12px;
-}
+background:transparent url(../images/055_fabric_grungydenim.jpg) repeat;font-family:'Arial', cursive;font-size:12px;}
 img.region-inner{max-width:0.888888888888889em;}
 a img.region-menu{max-width:0.2em;}
 a:link, a:visited{color:#B6CAE2;}
@@ -32,6 +31,7 @@ ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 h1,h2,h3,h4,h5,h6{letter-spacing:-0.05em;font-family:'Exo', sans-serif;font-weight: 200;}
 #zone-content-wrapper{font-size:1em;color:#FFFFFF;text-shadow:rgba(0,0,0,0.2) 0px 0px 2px;background:transparent url(../images/deco-mobile.png) no-repeat;}
 h2.node-title{font-size:2em;color:#C7B184;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;}
+#zone-content {color: rgb(249, 248, 242);}
 #zone-content a{color:#f85810;}
 #copy{color:#64D6FF;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;text-decoration:none;}
 #region-footer-second a,#region-footer-second a:link,#region-footer-second a:visited{color:#64D6FF;text-shadow:rgba(0,0,0,0.3) 1px 1px 1px;text-decoration:none;font-size:0.8em;top:3em;float:left;}
