@@ -27,7 +27,7 @@ ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 div#region-content,#region-sidebar-second{display:block;margin-top:0px;padding:0px;}
 .context-commander div#region-content, .context-commander #region-sidebar-second{display:block;margin-top:50px;padding:0px;}
 /* 20x20 auto shadow */
-.view-tableaux-20-20 ul li{position:relative;display:inline-block;width:70px;height:90px;}
+.view-tableaux-20-20 ul li{position:relative;display:inline-block;width:90px;height:90px;}
 /*.block-views-tableaux-20-20-block div.block-inner.clearfix h2.block-title{height:12px;text-indent:-9999px;margin-bottom:-18px;margin-left:0px;}*/
 .field-name-field-imgtabl img{width:80px !important;/*accomodation*/
 margin-bottom:2em;margin-top:1em;}
