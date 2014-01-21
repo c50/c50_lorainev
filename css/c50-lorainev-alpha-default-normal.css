@@ -14,14 +14,11 @@ div#region-menu{height:16px;clear:right;}
 
 /* 20x20 auto shadow */
 .view-tableaux-20-20 ul li{position:relative;display:inline-block;width:110px;height:120px;}
-.mosaic30 .view-tableaux-20-20 ul li{width:160px;height:180px;}
-.mosaic20 .view-tableaux-20-20 img{max-width:92px;max-height:92px;}
-.mosaic30 .view-tableaux-20-20 img{max-width:150px;max-height:150px;}
+
 /* 20x20 auto shadow */
 .view-tableaux-20-20 ul li{position:relative;display:inline-block;width:120px;height:120px;padding:0;}
 .view-tableaux-20-20 ul li a.active img{border:1px solid #fff;}
-.mosaic20 .view-tableaux-20-20 img{max-width:80px;max-height:80px;}
-.mosaic20 h2.block-title{margin-top:2em;}
+
 
 .field-name-field-imgtabl img{width:440px !important;/*accomodation*/
 margin-bottom:2em;margin-top:1em;}
