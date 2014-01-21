@@ -4,7 +4,7 @@
 a:focus{outline-width:0 !important;}
 body{padding:0;margin:0;/* necesarry for the raster to fill the screen */
 height:100%;width:100%;
-background:transparent url(../images/055_fabric_grungydenim.jpg) repeat;font-family:'Arial', cursive;font-size:12px;}
+background:transparent url(../images/background-loraine.jpg) repeat;font-family:'Arial', cursive;font-size:12px;}
 img.region-inner{max-width:0.888888888888889em;}
 a img.region-menu{max-width:0.2em;}
 a:link, a:visited{color:#B6CAE2;}
@@ -59,8 +59,7 @@ tr:hover td,tr.even:hover td.active,tr.odd:hover td.active{background-color:tran
 /* 20x20 auto shadow */
 .view-tableaux-20-20 ul li{position:relative;display:inline-block;width:110px;height:120px;padding:0;}
 .view-tableaux-20-20 ul li a.active img{border:1px solid #fff;}
-/*.mosaic20 .view-tableaux-20-20 img{max-width:80px;max-height:80px;}
-.mosaic20 h2.block-title{margin-top:2em;}*/
+
 /*.mosaic30 h2.block-title{height:12px;text-indent:-9999px;background:transparent url(../images/texts-sprites-s.png) no-repeat 0 -18px;margin-left:10px;}*/
 .field-name-field-imgtabl img{width:80px !important;/*image accomodation*/-webkit-box-shadow:2px 8px 12px 0px #333333;/* Saf3-4,iOS 4.0.2 - 4.2,Android 2.3+ */
 -moz-box-shadow:2px 8px 12px 0px #333333;/* FF3.5 - 3.6 */
