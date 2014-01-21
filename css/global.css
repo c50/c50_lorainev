@@ -91,5 +91,8 @@ a.follow-link-twitter{background:transparent url(../images/follow-groovy.png) no
 a.go-top{background:transparent url(../images/groovy-top-s.png) no-repeat 0px 0px;display:block;height:118px;padding-top:100px;}
 a.translation-link{color:#39F !important;}
 
+/* Expositions */
+.expo{margin-left: 2em;margin-bottom: -2em;}
+
 
 
