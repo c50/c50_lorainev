@@ -80,6 +80,8 @@ div #wrap{z-index:auto !important;margin-bottom:20px;}
 /* login form */
 #user-login input{max-width:200px;}
 
+/* Share This Buttons */
+.sharethis-buttons{margin-top: 1em;}
 
 /* follow us */
 /*#block-follow-site{text-indent:-99999px;float:right;margin-right:2em;display:inline-block;width:125px;height:28px;}
