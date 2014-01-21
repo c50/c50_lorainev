@@ -14,7 +14,7 @@ a:link, a:visited{color:#B6CAE2;}
 img#logo{max-width:270px;margin-top:24px;}
 .zone-branding{margin-bottom: 1em;}
 /*Main container*/
-div#region-content{margin: 20px auto;width: 60%;}
+div#region-content{margin: 20px auto;padding-left: 20%;padding-right: 20%;}
 /*main menu*/
 /*.navigation{min-height:300px;}*/
 .region-menu-inner{margin:0 auto;width:270px;}
