@@ -9,9 +9,6 @@ img.region-inner{max-width:1em;}
 /* Branding */
 img#logo{max-width:350px;}
 .region-branding-inner{margin:0;width:700px;padding-bottom:0;}
-/*Decor*/
-#region-decor li{list-style-type:none;}
-div#region-decor {display:inline-block !important;}
 /*main menu*/
 div#region-menu{margin:2em 0;}
 ul#main-menu{margin-top:2em;margin-left: 1em;}
@@ -22,8 +19,6 @@ ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 .node-tableau {margin-left: 0 !important;width:100% !important;}
 /* sidebar second */
 #zone-content-wrapper{background:none;}
-.context-commander #zone-content {margin-top:0px;}
-.context-commander #region-decor {margin-top:-99px;}
 #block-system-main{padding-left:0 !important;margin-top:0;}
 div#region-content,#region-sidebar-second{display:block;margin-top:0px;padding:0px;}
 .context-commander div#region-content, .context-commander #region-sidebar-second{display:block;margin-top:50px;padding:0px;}

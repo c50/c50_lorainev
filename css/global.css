@@ -22,15 +22,15 @@ div#region-menu{margin:2em 0;height:16px;line-height:22px;}
 ul#main-menu{float:left;text-align:center;}
 ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
 ul#main-menu li a{display:inline-block;width:auto;height:1em !important;font-size:1.5em;margin:0px;padding:4px;line-height:22px;text-decoration: none;background-color: rgb(75, 81, 81);}
-ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
+ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;border-bottom: 2px solid #64D6FF;}
 
-a#ivoire{background:ivory url(../images/lorainev_beige.png) no-repeat 0px 0px;}
+/*a#ivoire{background:ivory url(../images/lorainev_beige.png) no-repeat 0px 0px;}*/
 
 /*Decor*/
 #region-decor li{list-style-type:none;}
 /*#region-decor{display:none;}
 *//*Main*/
-/*#block-system-main{padding-left:4em !important;padding-right:2em;}*/
+#block-system-main{padding-left:4em !important;padding-right:2em;}
 h1,h2,h3,h4,h5,h6{letter-spacing:-0.05em;font-family:'Exo', sans-serif;font-weight: 200;}
 #zone-content-wrapper{font-size:1em;color:#FFFFFF;text-shadow:rgba(0,0,0,0.2) 0px 0px 2px;/*background:transparent url(../images/deco-mobile.png) no-repeat;*/}
 h2.node-title{font-size:2em;color:#C7B184;text-shadow:rgba(0,0,0,0.6) 1px 1px 1px;}
@@ -94,7 +94,7 @@ a.translation-link{color:#39F !important;}
 
 /* Expositions */
 div.expo{margin-left: 2em;margin-bottom: -2em;}
-#page{background:transparent url(../images/tablier.png) no-repeat right bottom;background-size: 20%;}
+#page{background:transparent url(../images/tablier.png) no-repeat right bottom;}
 
 
 
