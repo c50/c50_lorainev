@@ -94,7 +94,8 @@ a.translation-link{color:#39F !important;}
 
 /* Expositions */
 div.expo{margin-left: 2em;margin-bottom: -2em;}
-#page{background:transparent url(../images/tablier.png) no-repeat right bottom;}
+/* Tablier */
+#page{background:transparent url(../images/tablier.png) no-repeat right top;background-size: 30%;}
 
 
 
