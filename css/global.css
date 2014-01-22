@@ -21,7 +21,7 @@ img#logo{max-width:270px;margin-top:24px;}
 div#region-menu{margin:2em 0;height:16px;line-height:22px;}
 ul#main-menu{float:left;text-align:center;}
 ul#main-menu li{position:relative;display:inline-block;padding:0 1px;margin:0;}
-ul#main-menu li a{display:inline-block;width:auto;height:1em !important;font-size:1.5em;margin:0px;padding:4px;line-height:22px;text-decoration: none;}
+ul#main-menu li a{display:inline-block;width:auto;height:1em !important;font-size:1.5em;margin:0px;padding:4px;line-height:22px;text-decoration: none;background-color: rgb(75, 81, 81);}
 ul#main-menu li a:hover,ul#main-menu li a.active{color:#B6CAE2;}
 
 a#ivoire{background:ivory url(../images/lorainev_beige.png) no-repeat 0px 0px;}
@@ -94,7 +94,7 @@ a.translation-link{color:#39F !important;}
 
 /* Expositions */
 div.expo{margin-left: 2em;margin-bottom: -2em;}
-section#section-content{background:transparent url(../images/tablier.png) no-repeat 70em 0px;}
+#page{background:transparent url(../images/tablier.png) no-repeat right bottom;background-size: 20%;}
 
 
 
