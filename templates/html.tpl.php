@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php print $language->language; ?>" lang="<?php print $language->language; ?>" dir="<?php print $language->dir; ?>">
 <head>
-  <?php print $head; ?>
-<meta name="Author" content="C50 Dynamic Design, www.c50.be" />
+<title><?php print $head_title; ?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <title><?php print $head_title; ?></title>
+<meta name="description" lang="fr" content="Artiste uccloise qui manie aussi bien les couleurs que les matières, évolue et crée dans un monde passionné et passionnel.">
+<meta name="keywords" content="lorainev, loraine vanderhaege, artiste peintre, tableau acrylique, peinture à l'huile, atelier de peinture Uccle">
+<meta name="author" content="lorainev.be">
+<meta name="identifier-url" content="http://www.lorainev.be">
+<meta name="revisit-after" content="30 days">
+<meta name="publisher" content=" lorainev.be ">
+<meta name="copyright" content=" lorainev.be ">
+<meta name="robots" content="index, follow, all">
+ <?php print $head; ?>
+  
   <link href='http://fonts.googleapis.com/css?family=Exo:100,200,400' rel='stylesheet' type='text/css'>
   <?php print $styles; ?>
   <?php print $scripts; ?>
